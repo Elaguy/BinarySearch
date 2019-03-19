@@ -1,0 +1,3 @@
+# BinarySearch
+
+Just another Binary Search implementation...
